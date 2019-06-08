@@ -1,3 +1,4 @@
+大牛的项目，拿来学习学习。
 # Tacotron-2:
 Tensorflow implementation of DeepMind's Tacotron-2. A deep neural network architecture described in this paper: [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
 
