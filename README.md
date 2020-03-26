@@ -1,4 +1,4 @@
-大牛的项目，拿来学习一下，地址
+大牛的项目，拿来学习一下，地址:https://github.com/Rayhane-mamah/Tacotron-2
 # Tacotron-2:
 Tensorflow implementation of DeepMind's Tacotron-2. A deep neural network architecture described in this paper: [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
 
